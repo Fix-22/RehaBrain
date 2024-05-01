@@ -28,9 +28,9 @@ RehaBrain has **5** _(for now)_ different CST actvities, which are:
    3. Brush teeths
    4. Rinse mouth
 
-## Development principles
+## Development
 ### Language and framework
-RehaBrain is written in Java with the use of the Processing framework for the GUI.
+RehaBrain is written in Java with the use of the [Processing](https://processing.org/) framework for the GUI.
 
 ## Credits
 All the code is written by Simone Cecire.<br>
