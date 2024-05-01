@@ -8,7 +8,7 @@ RehaBrain is developed to help people with neurodegenerative diseases using CST 
 RehaBrain is developed to be **customizable** based on final user's interests and knowledge.
 
 ## Why developing a new software?
-There isn't much CST software that can be **personalized** based on person-specific criteria on the internet. RehaBrain data is made to be fully customizable and it could be based on user's interests and knowledge.
+There isn't much free CST software that can be **personalized** (based on person-specific criteria) on the internet. RehaBrain data is made to be fully customizable and it could be based on user's interests and knowledge.
 
 ## Development principles
 ### Language and framework
