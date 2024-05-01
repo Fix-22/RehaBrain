@@ -27,6 +27,12 @@ RehaBrain has **5** _(for now)_ different CST actvities, which are:
    2. Put on the toothbrush some toothpaste
    3. Brush teeths
    4. Rinse mouth
+<br>
+The user can modify which images and words will be used by RehaBrain by editing the files present in the selected profile.
+
+### Creating profiles
+RehaBrain has a default profile that shouldn't be modified.
+To create a new profile just copy the directory `data/profiles/default` into `data/profiles` and rename it, then change the second line of `data/profiles/current.configuration` from `using default` to `using yournewprofilename`.
 
 ## Development
 ### Language and framework
@@ -35,7 +41,7 @@ RehaBrain is written in Java with the use of the [Processing](https://processing
 ## Credits
 All the code is written by Simone Cecire.<br>
 <br>
-All the icons used for CST (present in data directory) created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon<br>
+All the icons used for CST (present in `data/images` directory) created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon<br>
 <br>
 Logo and window icon created by Simone Cecire.
 
