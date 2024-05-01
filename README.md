@@ -18,7 +18,15 @@ RehaBrain has **5** _(for now)_ different CST actvities, which are:
 2. **Selecting all the images in a particular category**<br>
    For example: matching all the images (present on the screen) which are attributable to the category "kitchen", like a fork, a glass and so on.
 3. **Writing rhymes**<br>
-   For example: writing all 
+   For example: writing 5 words that rhymes with the word "art".
+4. **Rebuilding a word by having its first and last letters**<br>
+   It works like the hangman game, but the user has to write all the letters of a word, in the case of an error a letter, present in the word to rebuild, will be added.
+5. **Sort an action**<br>
+   For example: by having the action "brush my teeth", sort in the correct oreder the actions (which will be in a random order):
+   1. Take the toothbrush
+   2. Put on the toothbrush some toothpaste
+   3. Brush teeths
+   4. Rinse mouth
 
 ## Development principles
 ### Language and framework
@@ -31,5 +39,5 @@ All the icons used for CST (present in data directory) created by [Freepik](http
 <br>
 Logo and window icon created by Simone Cecire.
 
-## Discalimer
+## Disclaimer
 **All the icons created by [Freepik](https://www.flaticon.com/authors/freepik) CAN'T be used outside RehaBrain, redistribuited or modified in any way. The author of RehabRain DOES NOT assume any responsibility for any violation of [Flaticon's license for Apps and games](https://support.flaticon.com/s/article/Apps-and-games-FI?language=en_US) made by the final user of RehaBrain.**
