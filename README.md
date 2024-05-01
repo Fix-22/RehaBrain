@@ -1,4 +1,4 @@
-![alt text](https://github.com/Fix-22/RehaBrain/blob/main/logo.png?raw=true)
+![RehaBrain logo](https://github.com/Fix-22/RehaBrain/blob/main/logo.png?raw=true)
 
 # RehaBrain
 A free cognitive stimulation therapy (CST) software made for people with neurodegenerative diseases.
@@ -23,3 +23,13 @@ RehaBrain has **5** _(for now)_ different CST actvities, which are:
 ## Development principles
 ### Language and framework
 RehaBrain is written in Java with the use of the Processing framework for the GUI.
+
+## Credits
+All the code is written by Simone Cecire.<br>
+<br>
+All the icons used for CST (present in data directory) created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon<br>
+<br>
+Logo and window icon created by Simone Cecire.
+
+## Discalimer
+**All the icons created by [Freepik](https://www.flaticon.com/authors/freepik) CAN'T be used outside RehaBrain, redistribuited or modified in any way. The author of RehabRain DOES NOT assume any responsibility for any violation of [Flaticon's license for Apps and games](https://support.flaticon.com/s/article/Apps-and-games-FI?language=en_US) made by the final user of RehaBrain.**
