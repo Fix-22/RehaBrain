@@ -32,11 +32,13 @@ The user can modify which images and words will be used by RehaBrain by editing 
 
 ### Creating profiles
 RehaBrain has a default profile that shouldn't be modified.
-To create a new profile just copy the directory `data/profiles/default` into `data/profiles` and rename it, then change the second line of `data/profiles/current.configuration` from `using default` to `using yournewprofilename`.
+To create a new profile just copy the directory `data/profiles/default` into `data/profiles` and rename it, then change the second line of `data/profiles/current.configuration` from `using default` to `using yournewprofilename`.<br>
+Before doing it please read **carefully** the section disclaimer.
 
 ## Development
 ### Language and framework
 RehaBrain is written in Java with the use of the [Processing](https://processing.org/) framework for the GUI.
+
 
 ## Credits
 All the code is written by Simone Cecire.<br>
