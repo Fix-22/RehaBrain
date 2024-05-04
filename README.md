@@ -8,9 +8,6 @@ RehaBrain is developed to help people with neurodegenerative diseases using CST 
 RehaBrain is developed to be **customizable** based on final user's interests and knowledge. At the moment images, words and categories of objects are a few but there will be more in the future.
 The final goal is helping people who care relatives or friends with neurodegenerative diseases by providing them free CST tools.
 
-## Language
-Italian.
-
 ## Why developing a new software?
 There isn't much free CST software that can be **personalized** (based on person-specific criteria) on the internet. RehaBrain data is made to be fully customizable and it could be based on user's interests and knowledge.
 
@@ -34,6 +31,9 @@ The user can modify which images and words will be displayed by RehaBrain by edi
 RehaBrain has a default profile that shouldn't be modified.
 To create a new profile just copy the directory `data/profiles/default` into `data/profiles` and rename it, then change the second line of `data/profiles/current.configuration` from `using default` to `using yournewprofilename`.<br>
 Before doing it please read **carefully** the disclaimer.
+
+## Language
+Italian.
 
 ## Development
 ### Language and framework
