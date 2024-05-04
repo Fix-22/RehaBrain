@@ -4,7 +4,7 @@
 A free cognitive stimulation therapy (CST) software made for people with neurodegenerative diseases.
 
 ## Goal
-RehaBrain is developed to help people with neurodegenerative diseases using CST (cognitive stimulation therapy), trying to improve their current cognitive abilities.
+RehaBrain is developed to help people with neurodegenerative diseases using CST (cognitive stimulation therapy), trying to maintain their current cognitive abilities.
 RehaBrain is developed to be **customizable** based on final user's interests and knowledge.
 The final goal is helping people who care relatives or friends with neurodegenerative diseases by providing them free CST tools.
 
