@@ -37,7 +37,7 @@ Italian.
 
 ## Development
 ### Language and framework
-RehaBrain is written in Java with the use of the [Processing](https://processing.org/) framework for the GUI.
+RehaBrain is written in Java with the use of the [Processing](https://processing.org/) framework for GUI development.
 
 ## Credits
 All the code is written by Simone Cecire.<br>
