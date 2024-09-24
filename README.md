@@ -42,7 +42,7 @@ RehaBrain is written in Java with the use of the [Processing](https://processing
 ## Credits
 All the code is written by Simone Cecire.<br>
 <br>
-All the icons used for CST (present in `data/images` directory) created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon<br>
+All the icons used for CST (present in `rehabrain/data/images` directory) created by [Freepik](https://www.flaticon.com/authors/freepik) - Flaticon<br>
 <br>
 Logo and window icon created by Simone Cecire.
 
