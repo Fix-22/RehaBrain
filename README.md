@@ -48,3 +48,6 @@ Logo and window icon created by Simone Cecire.
 
 ## Disclaimer
 **All the icons created by [Freepik](https://www.flaticon.com/authors/freepik) CAN'T be used outside RehaBrain, redistribuited or modified in any way. The author of RehabRain DOES NOT assume any responsibility for any violation of [Flaticon's license for Apps and games](https://support.flaticon.com/s/article/Apps-and-games-FI?language=en_US) made by the final user of RehaBrain.**
+
+## Future
+I want to make RehaBrain accessible to more people by creating a web application. More information about whis project will be added on this page.
