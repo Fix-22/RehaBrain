@@ -51,3 +51,6 @@ Logo and window icon created by Simone Cecire.
 
 ## Future
 I want to make RehaBrain accessible to more people by creating a web application. More information about whis project will be added on this page.
+
+## Documentation
+Full documentation can be seen in `docs`. It contains UML schemas for all the classes and a Word file (only in Italian) that technically describes the project.
